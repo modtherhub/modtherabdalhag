@@ -26,7 +26,7 @@ function Info (){
 
                   <span className='text-amber-600'>
                   <ReactTyped
-                    strings={["' Aathif Zahir '"]}
+                    strings={["' Modther Abdalhag '"]}
                     typeSpeed={100}
                     backSpeed={20}
                     cursorChar=""
@@ -88,6 +88,16 @@ function Info (){
                     showCursor={true}
                   />
                   </span>
+                  <span className='text-gray-500'>,{'\u00A0'}</span>
+                  <span className='text-amber-600'>
+                  <ReactTyped
+                    strings={["' TypeScript '"]}
+                    typeSpeed={100}
+                    backSpeed={20}
+                    cursorChar=""
+                    showCursor={true}
+                  />
+                  </span>
 
                   <span className='text-lime-300'>{'\u00A0'}]</span>
                   <span className='text-gray-500'> ,</span>
@@ -118,6 +128,16 @@ function Info (){
                   <span className='text-gray-500'>,{'\u00A0'}</span>
                   <span className='text-amber-600'>
                   <ReactTyped
+                    strings={["' Express '"]}
+                    typeSpeed={100}
+                    backSpeed={20}
+                    cursorChar=""
+                    showCursor={true}
+                  />
+                  </span>
+                  <span className='text-gray-500'>,{'\u00A0'}</span>
+                  <span className='text-amber-600'>
+                  <ReactTyped
                     strings={["' Tailwind CSS '"]}
                     typeSpeed={100}
                     backSpeed={20}
@@ -139,6 +159,26 @@ function Info (){
                   <span className='text-amber-600'>
                   <ReactTyped
                     strings={["' Django '"]}
+                    typeSpeed={100}
+                    backSpeed={20}
+                    cursorChar=""
+                    showCursor={true}
+                  />
+                  </span>
+                  <span className='text-gray-500'>,{'\u00A0'}</span>
+                  <span className='text-amber-600'>
+                  <ReactTyped
+                    strings={["' MySQL '"]}
+                    typeSpeed={100}
+                    backSpeed={20}
+                    cursorChar=""
+                    showCursor={true}
+                  />
+                  </span>
+                  <span className='text-gray-500'>,{'\u00A0'}</span>
+                  <span className='text-amber-600'>
+                  <ReactTyped
+                    strings={["' MongoDB '"]}
                     typeSpeed={100}
                     backSpeed={20}
                     cursorChar=""
